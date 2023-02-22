@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cera de Soja",
+    "precio": 1385,
+    "img": "images/cera.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Endurecedor",
+    "precio": 500,
+    "img": "images/endurecedor.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Pabilo",
+    "precio": 140,
+    "img": "images/pabilo.jpg",
+    "cantidad": 1
+  },
+
+  {
+    "id": 4,
+    "nombre": "Ojalillos",
+    "precio": 180,
+    "img": "images/ojalillos.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 5,
+    "nombre": "Difusor Auto 35 ml",
+    "precio": 140,
+    "img": "images/difusorAuto.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 6,
+    "nombre": "Recipiente Natural 180 cc",
+    "precio": 225,
+    "img": "images/reciNatural.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 7,
+    "nombre": "Tablita Eucalipto",
+    "precio": 550,
+    "img": "images/tablita.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 8,
+    "nombre": "Caramelera Circo",
+    "precio": 585,
+    "img": "images/carameleraCirco.jpg",
+    "cantidad": 1
+  }
+]
